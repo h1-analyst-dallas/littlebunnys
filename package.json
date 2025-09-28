@@ -9,6 +9,7 @@
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+    "funny-font-wow": "0.1.38"
   },
   "devDependencies": {
     "@types/node": "20.10.8",
